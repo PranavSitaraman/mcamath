@@ -6,7 +6,7 @@ layout: default
 	<a href="{{ site.baseurl }}/mcamc"><img src="{{ site.baseurl }}/images/mcamc-logo.svg" class="main-banner-img"></a>
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="{{ site.baseurl }}/mcamc">Middlesex County Academy Math Competition</a></h1>
-		<p class="main-banner-text">Saturday, March 18th, 2022</p>
+		<p class="main-banner-text">Saturday, March 18th, 2023</p>
 		<p class="main-banner-text">a team-based competition open to all students in grades 6-8</p>
 		<div class="banner-btn-cont">
 			<a href="{{ site.baseurl }}/mcamc" class="banner-btn">Learn More</a>
